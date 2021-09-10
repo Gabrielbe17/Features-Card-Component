@@ -169,4 +169,10 @@ body{
         width: 100%;
         display: inline;
     }
+    .cards{
+        padding: 0rem 2rem;
+    }
+    .header__content{
+        text-align: center;
+    }
 }
